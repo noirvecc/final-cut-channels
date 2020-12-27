@@ -1,0 +1,638 @@
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="Undefined",MBC
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="Undefined",MBC 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Movies",MBC 2 HD
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Undefined",MBC 3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Undefined",MBC 3 Opt-2
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/pfF61uH.png" group-title="Undefined",MBC 4
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies",MBC Action HD
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/fMjhK06.png" group-title="Entertainment",MBC Bollywood
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="Movies",MBC Drama
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="Movies",MBC Drama PLUS
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="SA" tvg-logo="https://www.lyngsat.com/logo/radio/mm/mbc_ae_fm.png" group-title="Undefined",MBC FM
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IQ;AE" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-iraq-ae-iq.png" group-title="Undefined",MBC Iraq
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="Movies",MBC Max HD
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/F5U9qpf.png" group-title="Undefined",Dubai Zaman
+https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="MY" tvg-logo="" group-title="Undefined",DUBAI ONE (1920×1080)
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="Undefined",National Geographic Abu Dhabi
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/7Bx66K7.jpg" group-title="Undefined",Abu Dhabi Drama
+https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/oExmYqk.jpg" group-title="General",Abu Dhabi TV
+http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/7sibv0t.png" group-title="Undefined",Télé Maroc
+https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/eE1SdyA.png" group-title="Undefined",2M Monde
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="Al Maghribia ARB" tvg-name="Al Maghribia ARB" tvg-language="Arabic" tvg-logo="http://www.snrtlive.ma/sites/all/themes/snrtlive/images/almaghribiax2.png" tvg-country="MA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="",Al Maghribia
+http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.snrtlive.ma/sites/all/themes/snrtlive/images/alaoulax2.png" tvg-country="MA" tvg-url="" group-title="",Al Aoula
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
+#EXTINF:-1,SP: BEIN SPORT 1 FHD BACKUP
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1573
+#EXTINF:-1,SP: BEIN SPORT 2 FHD BACKUP
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1574
+#EXTINF:-1,SP: BEIN SPORT 3 FHD BACKUP
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1575
+#EXTINF:-1,SP: BEIN SPORT 4 FHD BACKUP
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1576
+#EXTINF:-1,SP: BEIN SPORT 5 FHD BACKUP
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1577
+#EXTINF:-1,SP: BEIN SPORT 6 FHD BACKUP
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1578
+#EXTINF:-1,SP: BEIN SPORT 7 FHD BACKUP
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1579
+#EXTINF:-1,SP: BEIN SPORT 8 FHD BACKUP
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1580
+#EXTINF:-1,SP: BEIN SPORT 9 FHD BACKUP
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1581
+#EXTINF:-1,SP: BEIN SPORT 10 FHD BACKUP
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1582
+#EXTINF:-1,SP: BEIN SPORT 11 FHD BACKUP
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1583
+#EXTINF:-1,SP: BEIN SPORT 12 FHD BACKUP
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1584
+#EXTINF:-1,SP: BEIN SPORT 13 FHD BACKUP
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1585
+#EXTINF:-1,SP: BEIN SPORT 14 FHD BACKUP
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1586
+#EXTINF:-1,SP: BEIN SPORT 15 FHD BACKUP
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1587
+#EXTINF:-1,SP: BEIN SPORT 16 FHD BACKUP
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1588
+#EXTINF:-1,SP: RMC Sport 1 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/516
+#EXTINF:-1,SP: RMC Sport 2 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/517
+#EXTINF:-1,SP: RMC Sport 3 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/518
+#EXTINF:-1,SP: RMC Sport 4 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/519
+#EXTINF:-1,SP: RMC Sport 5 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/521
+#EXTINF:-1,SP: RMC Sport 6 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/522
+#EXTINF:-1,SP: RMC Sport 7 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/523
+#EXTINF:-1,SP: RMC Sport 8 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/524
+#EXTINF:-1,SP: RMC Sport 10 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/525
+#EXTINF:-1,FR: DISNEY CHANNEL
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1306
+#EXTINF:-1,FR: CARTOON NETWORK
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1308
+#EXTINF:-1,FR: HISTORIE
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1309
+#EXTINF:-1,FR: NAT GEO WILD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1310
+#EXTINF:-1,FR: DISCOVERY FAMILY
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1311
+#EXTINF:-1,FR: PLANETE+
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1312
+#EXTINF:-1,FR: PLANETE+ C&I
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1313
+#EXTINF:-1,FR: POLAR+
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1314
+#EXTINF:-1,FR: SYFY
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1315
+#EXTINF:-1,Fr: TCM CINEMA
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1316
+#EXTINF:-1,FR: DISNEY CINEMA
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1317
+#EXTINF:-1,FR: CINE+ CLASSIC
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1318
+#EXTINF:-1,FR: TF1 SERIES FILMS
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1635
+#EXTINF:-1,FR: CANAL FAMILY
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1636
+#EXTINF:-1,FR: CANAL+ SPORT
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1637
+#EXTINF:-1,FR: CINE EMOTION
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1638
+#EXTINF:-1,FR: CINE FRISSON
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1639
+#EXTINF:-1,FR: CINE PREMIER
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1640
+#EXTINF:-1,FR: C8
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1641
+#EXTINF:-1,FR: COMEDIE+
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1642
+#EXTINF:-1,FR: CRIME DISTRICT
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1643
+#EXTINF:-1,FR: CHERIE 25
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1644
+#EXTINF:-1,FR: DISCOVERY INVESTIGATION
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1645
+#EXTINF:-1,FR: J-ONE
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1646
+#EXTINF:-1,FR: MTV
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1647
+#EXTINF:-1,FR: MTV BASE
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1648
+#EXTINF:-1,FR: NICKELODEON JUNIOR
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1649
+#EXTINF:-1,FR: NRJ12
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1650
+#EXTINF:-1,IT: FOX HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/901
+#EXTINF:-1,IT: SKY UNO
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/903
+#EXTINF:-1,IT: SKY CINEMA DUE
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/887
+#EXTINF:-1,IT: SKY CINEMA DRAMA
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/888
+#EXTINF:-1,IT: SKY CINEMA ACTION
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/889
+#EXTINF:-1,IT: SKY CINEMA FAMILY
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/890
+#EXTINF:-1,IT: SKY CINEMA SUSPENSE
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/891
+#EXTINF:-1,UK: NAT GEO WILD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1675
+#EXTINF:-1,UK: ANIMAL PLANET
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1676
+#EXTINF:-1,UK: CRIME & INVESTIGATION
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1677
+#EXTINF:-1,NATGEO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/597
+#EXTINF:-1,NBA HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600
+#EXTINF:-1,NBC NEW YORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/601
+#EXTINF:-1,NBCSN  HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/606
+#EXTINF:-1,NFL NETWORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/616
+#EXTINF:-1,OLYMPIC CHANNEL  HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/624
+#EXTINF:-1,SYFY
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/652
+#EXTINF:-1,TELEMUNDOMIAMI
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/657
+#EXTINF:-1,TNT
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/660
+#EXTINF:-1,TOONCAST
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725
+#EXTINF:-1,NFLREDZONE
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/623
+#EXTINF:-1,A&E ENG HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/482
+#EXTINF:-1,ABC7CHICAGO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/483
+#EXTINF:-1,CBS2CHICAGO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/492
+#EXTINF:-1,COOKING
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/504
+#EXTINF:-1,COZI
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/505
+#EXTINF:-1,DESTINATION AMERICA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/508
+#EXTINF:-1,DISCOVERYFAMENG
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/509
+#EXTINF:-1,DISCOVERYFAMSPA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/510
+#EXTINF:-1,VELOCITY
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/669
+#EXTINF:-1,DISNEY
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/512
+#EXTINF:-1,DISNEYJR
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
+#EXTINF:-1,DISNEYXD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514
+#EXTINF:-1,EPIXHITS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/519
+#EXTINF:-1,FOX2CHICAGO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/534
+#EXTINF:-1,FOX2DETROIT
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/535
+#EXTINF:-1,FOX11LA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/533
+#EXTINF:-1,FOX7MIAMI
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/540
+#EXTINF:-1,FOX5NEWYORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/539
+#EXTINF:-1,GALAVISION
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/556
+#EXTINF:-1,CBSKPIX
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/494
+#EXTINF:-1,Lifetime Movie
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/568
+#EXTINF:-1,NATGEO MUNDO HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/598
+#EXTINF:-1,NBC5CHICAGO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/602
+#EXTINF:-1,NBCMIAMI
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/603
+#EXTINF:-1,NUEVE 9
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/719
+#EXTINF:-1,OWN
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/627
+#EXTINF:-1,OXYGEN
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/628
+#EXTINF:-1,REVOLT MUSIC
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/640
+#EXTINF:-1,TELEMUNDO44
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/654
+#EXTINF:-1,TELEMUNDOLA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/656
+#EXTINF:-1,TELEMUNDO48
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/655
+#EXTINF:-1,TELEMUNDONEWYORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/658
+#EXTINF:-1,UNIMAS HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/663
+#EXTINF:-1,UNIVERSO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/665
+#EXTINF:-1,UNIVISION SPORTS   ULTIMO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/666
+#EXTINF:-1,XITE
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/672
+#EXTINF:-1,XITEROCK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/673
+#EXTINF:-1,XITEVIBE
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/674
+#EXTINF:-1,BTN
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/490
+#EXTINF:-1,FOX DEPORTES HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531
+#EXTINF:-1,FS1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/549
+#EXTINF:-1,FS2
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/550
+#EXTINF:-1,FOXCOLLEGESPORTSCENTRAL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/542
+#EXTINF:-1,LONGHORN
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/569
+#EXTINF:-1,GOLF CHANNEL HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/558
+#EXTINF:-1,ABC NEW YORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/728
+#EXTINF:-1,Animal HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/730
+#EXTINF:-1,Comedy Central HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/731
+#EXTINF:-1,CW HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/732
+#EXTINF:-1,ESPN 2 HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733
+#EXTINF:-1,Fox News HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/734
+#EXTINF:-1,MLB NETWORKS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/736
+#EXTINF:-1,Investigation Discovery ID
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/735
+#EXTINF:-1,MTV LIVE
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/737
+#EXTINF:-1,NATGEO KIDS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/738
+#EXTINF:-1,Nickelodeon HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/754
+#EXTINF:-1,PARAMOUNT NETWORK (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/755
+#EXTINF:-1,SUNDANCETV HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/757
+#EXTINF:-1,TBS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/758
+#EXTINF:-1,TIIN
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/759
+#EXTINF:-1,TRUTV ESP
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/760
+#EXTINF:-1,WHVL HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/763
+#EXTINF:-1,VEPLUSTV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/762
+#EXTINF:-1,AFIZZIONADOS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/729
+#EXTINF:-1,REDBULL TV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/756
+#EXTINF:-1,TVC DEPORTES
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/761
+#EXTINF:-1,BEIN SPORTS ENG HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
+#EXTINF:-1,ELEVEN SPORTS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/517
+#EXTINF:-1,SPORTSBAYAREA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/644
+#EXTINF:-1,sportsboston
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/645
+#EXTINF:-1,SPORTSCALIFORNIA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/646
+#EXTINF:-1,SPORTSCHICAGO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/647
+#EXTINF:-1,SPORTSMAN CHANNEL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/648
+#EXTINF:-1,SPORTSNORTHWEST
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/649
+#EXTINF:-1,SPORTSPHILADELPHIA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/650
+#EXTINF:-1,SPORTSWASHINGTON
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/651
+#EXTINF:-1,MLB 725
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/575
+#EXTINF:-1,MLB 726
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/576
+#EXTINF:-1,MLB 727
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/577
+#EXTINF:-1,MLB 728
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/578
+#EXTINF:-1,MLB 729
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/579
+#EXTINF:-1,MLB 730
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/580
+#EXTINF:-1,MLB 731
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/581
+#EXTINF:-1,MLB 732
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/582
+#EXTINF:-1,MLB 733
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/583
+#EXTINF:-1,MLB 734
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/584
+#EXTINF:-1,MLB 735
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/585
+#EXTINF:-1,MLB 736
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/586
+#EXTINF:-1,MLB 737
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/587
+#EXTINF:-1,MLB 738
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/588
+#EXTINF:-1,MLB 739
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/589
+#EXTINF:-1,MLB 740
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/590
+#EXTINF:-1,MLB 742
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/591
+#EXTINF:-1,MLB 744
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/592
+#EXTINF:-1,MLB 746
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/593
+#EXTINF:-1,MLB 720
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/570
+#EXTINF:-1,MLB 721
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/571
+#EXTINF:-1,MLB 722
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/572
+#EXTINF:-1,MLB 723
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/573
+#EXTINF:-1,MLB 724
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/574
+#EXTINF:-1,NFL 15
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/608
+#EXTINF:-1,NFL GAMEPASS 01
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/739
+#EXTINF:-1,NFL GAMEPASS 02
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/740
+#EXTINF:-1,NFL GAMEPASS 03
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/741
+#EXTINF:-1,NFL GAMEPASS 04
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/742
+#EXTINF:-1,NFL GAMEPASS 05
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/743
+#EXTINF:-1,NFL GAMEPASS 06
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/744
+#EXTINF:-1,NFL GAMEPASS 07
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/745
+#EXTINF:-1,NFL GAMEPASS 08
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/746
+#EXTINF:-1,NFL GAMEPASS 09
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/747
+#EXTINF:-1,NFL GAMEPASS 10
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/748
+#EXTINF:-1,NFL GAMEPASS 11
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/749
+#EXTINF:-1,NFL GAMEPASS 12
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/750
+#EXTINF:-1,NFL GAMEPASS 13
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/751
+#EXTINF:-1,NFL GAMEPASS 14
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/752
+#EXTINF:-1,UFC ESP
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/726
+#EXTINF:-1,ESTRELLATV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/697
+#EXTINF:-1,Canal De Las Estrellas
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/682
+#EXTINF:-1,CNN ESPAÑOL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/684
+#EXTINF:-1,FOODNETWORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/528
+#EXTINF:-1,FXM
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/553
+#EXTINF:-1,IMAGEN NOTICIAS SD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/712
+#EXTINF:-1,OUTDOOR CHANNEL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/625
+#EXTINF:-1,TRAVEL HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/661
+#EXTINF:-1,TDN DEPORTES
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722
+#EXTINF:-1,ANTENA3
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/484
+#EXTINF:-1,BEIN ESPANIOL HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
+#EXTINF:-1,FIGHT NETWORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/526
+#EXTINF:-1,TV5
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/775
+#EXTINF:-1,ESPN GOAL LINE
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/771
+#EXTINF:-1,RAI
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/774
+#EXTINF:-1,EUROCHANNEL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/772
+#EXTINF:-1,AZTECA CINEMA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/766
+#EXTINF:-1,AZTECA UNO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/678
+#EXTINF:-1,baby tv
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/485
+#EXTINF:-1,BANDAMAX
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/486
+#EXTINF:-1,Bloomberg
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/767
+#EXTINF:-1,BOOMERANG MEXICO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/680
+#EXTINF:-1,Canal 5
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/681
+#EXTINF:-1,Caracol HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/768
+#EXTINF:-1,CARTOON NETWORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683
+#EXTINF:-1,CBS11HOUSTON
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/491
+#EXTINF:-1,CBS4TEXAS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/493
+#EXTINF:-1,CBSLA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/495
+#EXTINF:-1,CINEMAX HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/769
+#EXTINF:-1,PBS HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/773
+#EXTINF:-1,AXN
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/765
+#EXTINF:-1,DISCOVERY SCIENCE
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/770
+#EXTINF:-1,NFL GAMEPASS REDZONE
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/753
+#EXTINF:-1,goltv esp
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/559
+#EXTINF:-1,FXX
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/554
+#EXTINF:-1,ESPN Deportes
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124
+#EXTINF:-1,GLITZ
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1123
+#EXTINF:-1,UFC USA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1122
+#EXTINF:-1,Discovery Channel US
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1125
+#EXTINF:-1,UNIVISION USA HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668
+#EXTINF:-1,FORMULA 1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/698
+#EXTINF:-1,NBA-1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1142
+#EXTINF:-1,NBA-10
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1133
+#EXTINF:-1,NBA-11
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1132
+#EXTINF:-1,NBA-12
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1131
+#EXTINF:-1,NBA-13
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1130
+#EXTINF:-1,NBA-14
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1129
+#EXTINF:-1,NBA-15
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1128
+#EXTINF:-1,NBA-16
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1127
+#EXTINF:-1,NBA-2
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1141
+#EXTINF:-1,NBA-3
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1140
+#EXTINF:-1,NBA-4
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1139
+#EXTINF:-1,NBA-5
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1138
+#EXTINF:-1,NBA-6
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1137
+#EXTINF:-1,NBA-7
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1136
+#EXTINF:-1,NBA-8
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1135
+#EXTINF:-1,NBA-9
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1134
+#EXTINF:-1,ABC Miami
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1126
+#EXTINF:-1,NHL-1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1164
+#EXTINF:-1,NHL-10
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1155
+#EXTINF:-1,NHL-11
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1154
+#EXTINF:-1,NHL-12
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1153
+#EXTINF:-1,NHL-13
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1152
+#EXTINF:-1,NHL-14
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1151
+#EXTINF:-1,NHL-15
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1150
+#EXTINF:-1,NHL-16
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1149
+#EXTINF:-1,NHL-17
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1148
+#EXTINF:-1,NHL-18
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1147
+#EXTINF:-1,NHL-19
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1146
+#EXTINF:-1,NHL-2
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1163
+#EXTINF:-1,NHL-20
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1145
+#EXTINF:-1,NHL-21
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1144
+#EXTINF:-1,NHL-3
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1162
+#EXTINF:-1,NHL-4
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1161
+#EXTINF:-1,NHL-5
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1160
+#EXTINF:-1,NHL-6
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1159
+#EXTINF:-1,NHL-7
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1158
+#EXTINF:-1,NHL-8
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1157
+#EXTINF:-1,NHL-9
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1156
+#EXTINF:-1,NBA-17
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1178
+#EXTINF:-1,NBA-18
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1177
+#EXTINF:-1,NBA-19
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1176
+#EXTINF:-1,NBA-20
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1175
+#EXTINF:-1,NBA-21
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1174
+#EXTINF:-1,NBA-22
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1173
+#EXTINF:-1,NBA-23
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1172
+#EXTINF:-1,NBA-24
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1171
+#EXTINF:-1,NBA-25
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1170
+#EXTINF:-1,NBA-26
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1169
+#EXTINF:-1,NBA-27
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1168
+#EXTINF:-1,NBA-28
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1167
+#EXTINF:-1,NBA-29
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1166
+#EXTINF:-1,NBA-30
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1165
+#EXTINF:-1,Comet-TV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1181
+#EXTINF:-1,Fox-Sports-Kansas
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1180
+#EXTINF:-1,NBC-Kansas
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1179
+#EXTINF:-1,Morbido-TV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1182
+#EXTINF:-1,HALLMARKDRAMA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/562
+#EXTINF:-1,UNIVERSALKIDS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/664
+#EXTINF:-1,PPV 1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1183
+#EXTINF:-1,PPV 2
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1184
+#EXTINF:-1,PPV 3
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1185
+#EXTINF:-1,HALLMARK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/561
+#EXTINF:-1,El Gourmet
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1186
+#EXTINF:-1,AXS TV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1189
+#EXTINF:-1,ESPN News
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1191
+#EXTINF:-1,ESPN U
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1190
